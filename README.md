@@ -9,7 +9,7 @@ The algorithms for the assignments are implemented using R.
  
  - One-way ANalysis Of VAriance (ANOVA), Two-way ANOVA
  
- - Chi square test
+ - Chi-square test
  
  - Simple regression analysis 
  
